@@ -1,16 +1,22 @@
-## Hi there 👋
+ 👋 Olá! Eu sou o Davi
 
-<!--
-**DaviAmonteiro/DaviAmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de desenvolvimento front-end  
+📚 Atualmente aprendendo **HTML, CSS e JavaScript** (Curso em Vídeo)  
+🚀 Criando pequenos projetos para praticar e evoluir  
+💡 Interessado em front-end e interfaces bonitas
 
-Here are some ideas to get you started:
+🔧 Tecnologias que estou aprendendo
+- HTML5  
+- CSS3  
+- JavaScript  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Objetivos para 2025
+- Criar meu primeiro portfólio  
+- Postar meus projetos aqui no GitHub  
+- Evoluir para JavaScript intermediário  
+
+---
+⭐ *Sempre tentando aprender um pouco mais todos os dias.*
+
+
+
