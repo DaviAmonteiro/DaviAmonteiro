@@ -12,7 +12,8 @@
 - JavaScript
 
 🔍 Tecnologias que tenho curiosidade
- -Python
+
+ - Python
  - C#
 
 📌 Objetivos para 2025
