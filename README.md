@@ -1,14 +1,19 @@
  👋 Olá! Eu sou o Davi
 
-🎯 Estudante de desenvolvimento front-end  
+🎯 Estudante de desenvolvimento web 
 📚 Atualmente aprendendo **HTML, CSS e JavaScript** (Curso em Vídeo)  
-🚀 Criando pequenos projetos para praticar e evoluir  
+🚀 Criando pequenos projetos para praticar e evoluir 
 💡 Interessado em front-end e interfaces bonitas
+ 
 
 🔧 Tecnologias que estou aprendendo
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+
+🔍 Tecnologias que tenho curiosidade
+ -Python
+ - C#
 
 📌 Objetivos para 2025
 - Criar meu primeiro portfólio  
