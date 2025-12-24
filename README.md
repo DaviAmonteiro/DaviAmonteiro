@@ -1,7 +1,7 @@
  👋 Olá! Eu sou o Davi
 
 🎯 Estudante de desenvolvimento web 
-📚 Atualmente aprendendo **HTML, CSS e JavaScript** (Curso em Vídeo)  
+📚 Atualmente aprendendo **HTML, CSS e JavaScript**  
 🚀 Criando pequenos projetos para praticar e evoluir 
 💡 Interessado em front-end e interfaces bonitas
  
