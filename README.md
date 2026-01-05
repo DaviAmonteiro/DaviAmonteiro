@@ -16,7 +16,7 @@
  - Python
  - C#
 
-📌 Objetivos para 2025
+📌 Objetivos para 2026
 - Criar meu primeiro portfólio  
 - Postar meus projetos aqui no GitHub  
 - Evoluir para JavaScript intermediário  
