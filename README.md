@@ -14,7 +14,7 @@
 🔍 Tecnologias que tenho curiosidade
 
  - Python
- - C#
+ - Java
 
 📌 Objetivos para 2026
 - Criar meu primeiro portfólio  
