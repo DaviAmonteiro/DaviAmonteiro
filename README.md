@@ -25,9 +25,9 @@
 
 ## 🛠️ Projetos
 
-🔹 (Em construção)
+🔹 🔹 Projetos em desenvolvimento  
+> Atualmente desenvolvendo projetos práticos em Java para consolidar lógica de programação e conceitos de back-end
 
-> Em breve adicionarei projetos práticos utilizando Java e banco de dados
 
 ---
 
