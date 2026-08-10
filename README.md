@@ -29,7 +29,8 @@
 ## 🛠️ Projetos
 
 🔹 🔹 Projetos em desenvolvimento  
-> Atualmente desenvolvendo projetos práticos em Java para consolidar lógica de programação e conceitos de back-end
+* To-do List em JavaScript
+* Clone da Interface do Itaú (HTML/CSS)
 
 
 ---
