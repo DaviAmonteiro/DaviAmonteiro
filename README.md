@@ -22,7 +22,8 @@
 * Conceitos iniciais de orientação a objetos
 * Modelagem básica de banco de dados
 * Desenvolvimento Web (Html, css, js)
-* Excel e Word
+* Inglês(b2-c1)
+* Excel 
 
 ---
 
