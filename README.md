@@ -9,7 +9,7 @@
 ## 🚀 Tecnologias em estudo
 
 * Java
-* Banco de dados
+* Banco de dados (SQL)
 * Git & GitHub
 * Excel
 
